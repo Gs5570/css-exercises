@@ -1,0 +1,17 @@
+.oddNumber {
+  background-color: #ffb6c1;
+  font-family: Verdana, 'DejaVu Sans', 'sans-serif';
+}
+#sndElement {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+.thirdElt {
+  font-size: 24px;
+}
+
+#fourthElt {
+  background-color: rgb(144, 238, 144);
+  font-size: 24px;
+}
